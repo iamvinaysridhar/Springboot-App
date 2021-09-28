@@ -1,1 +1,1 @@
-# JFS
+Springboot banking application
