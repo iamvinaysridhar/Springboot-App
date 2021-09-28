@@ -4,11 +4,12 @@ Tools and Technologies used:
 
 Databases - H2
 
-REST API - Postman API, Swagger UI
+RESTful Web Services - Postman API, Swagger UI
 
 Testing - JUnit, Mockito
 
 Backend Code - Spring, Springboot, Hibernate, JPA, Lombok, Validators, Java 8
+
 Oracle 11g, Slf4j Logging, Exception Handling
 
 Servers - Apache Tomcat
